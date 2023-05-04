@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To-do List</string>
+    <string name="ic_plus">Icône Plus</string>
+    <string name="ic_delete">Icône Supprimer</string>
+    <string name="note_title">Titre de la tâche</string>
+    <string name="note_description">Description de la tâche</string>
+    <string name="create_note">Ajouter la tâche</string>
+    <string name="update_note">Sauvegarder</string>
+    <string name="note_updated">La tâche a été enregistrée.</string>
+</resources>
